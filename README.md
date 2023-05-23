@@ -17,3 +17,4 @@ Template repository for creating any STTXXX file
 
 > If you are picking up where you left off since last `push origin`.
 Click on `Fetch origin` and then `Pull Origin`
+text
